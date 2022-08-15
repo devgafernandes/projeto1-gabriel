@@ -24,3 +24,4 @@ public class ReceiptEventRestAdapter {
     }
 
 }
+// adicionando comentário
